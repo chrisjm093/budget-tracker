@@ -35,9 +35,6 @@ If using locally, running npm start will run application on localhost:3000.
 -- 
 Christopher Marti
 
-#Tests:   
---
-
 #Developer:  
 --
 ## chrisjm093  
