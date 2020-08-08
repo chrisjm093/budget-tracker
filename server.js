@@ -8,11 +8,7 @@ const PORT = 3000;
 const app = express();
 
 var MONGODB_URI = process.env.MONGODB_URI || "mongodb://user1:password1@ds111788.mlab.com:11788/heroku_g8bnrt41";
-mongoose.connect(MONGODB_URI,
-  { 
-    useMongoClient: true
-  }
-);
+mongoose.connect(MONGODB_URI);
 
 app.use(logger("dev"));
 
