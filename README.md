@@ -10,8 +10,7 @@ Table of Contents
 4. [License](#license)
 5. [Contributors](#contributers)
 6. [Tests](#tests)
-7. [GitHub Profile Picture](#developer)
-8. [GitHub Email](#contact)
+
 
 ---
 
@@ -33,14 +32,9 @@ If using locally, running npm start will run application on localhost:3000.
 
 #Contributors: 
 -- 
-Christopher Marti
+chrisjm093
 
 #Developer:  
 --
 ## chrisjm093  
 
-![GitHub Profile Photo](https://github.com/chrisjm093.png)
-
-#Contact: 
--- 
-chrisjm093@gmail.com
